@@ -14,6 +14,11 @@
         <artifactId>selenium-java</artifactId>
         <version>4.11.0</version>
     </dependency>
+    <dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-java</artifactId>
+			<version>7.11.1</version>
+		</dependency>
    </dependencies>
 10. Add the Script
-11. Run the Script [Run As → Java Application]
+11. Run the Script [Run As → Cucumber Feature or Run Configuration]
